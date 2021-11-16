@@ -1,6 +1,6 @@
 # download fossilBM here: https://github.com/dsilvestro/fossilBM
 # install dependencies (if necessary)
-# install.packages(c("phylobase","adephylo","geiger","phytools"))
+# install.packages(c("phylobase","adephylo","geiger","phytools","HDInterval"))
 
 # Data from Zhang et al. 2021 Syst Biol (doi: 10.1093/sysbio/syab030)
 # define input files
