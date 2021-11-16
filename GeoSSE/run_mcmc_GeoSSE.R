@@ -95,7 +95,7 @@ sA_higher_sB <- length(delta_speciation[delta_speciation > 0])/length(delta_spec
 # Plot speciation, dispersal, and extinction rates per area:
 pdf(file = "GeoSSE_summary_plot.pdf", width = 15, height = 8)
 par(mfrow = c(1, 3))
-plot(area, col = area$bioregio)
+
 legend(legend =c("Area A", "Area B"), fill = c("red", "limegreen"), x = "bottomleft")
 vioplot(post[, c("sA", "sB", "sAB")], col = "blue", main = "speciation rates")
 legend(legend = c(paste0("p(sA > sB) = ", sA_higher_sB),  paste0("p(sAB > sA) = ", sAB_higher_sA), paste0("p(sAB > sB) = ", sAB_higher_sB)),
