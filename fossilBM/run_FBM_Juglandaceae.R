@@ -1,3 +1,4 @@
+# download fossilBM here: https://github.com/dsilvestro/fossilBM
 # install dependencies (if necessary)
 # install.packages(c("phylobase","adephylo","geiger","phytools"))
 

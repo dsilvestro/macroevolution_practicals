@@ -1,6 +1,7 @@
 # Joint Bayesian estimation of speciation, dispersal and extinction rates: the GeoSSE model
 # The GeoSSE model jointly infers area-specific speciation rates, dispersal rates and local extinction rates (Goldberg et al. 2011). 
-# The mcmc-SSE program implements a Bayesian algorithm to infer these rates (Silvestro et al. 2014).
+# Download mcmc-diversitree here: https://github.com/dsilvestro/mcmc-diversitree
+# The mcmc-diversitree program implements a Bayesian algorithm to infer these rates (Silvestro et al. 2014).
 
 library("diversitree")
 library("picante")

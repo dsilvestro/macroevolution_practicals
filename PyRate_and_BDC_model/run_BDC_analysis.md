@@ -1,5 +1,7 @@
 # The Birth-Death-Chronospecies (BDC) model
 
+Download PyRate here: [https://github.com/dsilvestro/PyRate](https://github.com/dsilvestro/PyRate)
+
 ### For info on how to prepare input files check these tutorials:
 * [Generate PyRate input file (option 1)](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_1.md#generate-pyrate-input-file-option-1)  
 * [Generate PyRate input file (option 2)](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_1.md#generate-pyrate-input-file-option-2)  
